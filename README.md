@@ -1,4 +1,4 @@
-# **[Building Multi-Tier, Highly Available, Fault-Tolerant Web Application]
+Building Multi-Tier, Highly Available, Fault-Tolerant Web Application
 
 ## Overview:
 
